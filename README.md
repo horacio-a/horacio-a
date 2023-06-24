@@ -79,18 +79,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=horacio-a&hide_border=true&layout=compact" align="left" />  
 </div>  
 
-<br/>  
-  
 
-## My Spotify 
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21zf73xzxnlvuyxau6m7ohdda&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
 
