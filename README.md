@@ -79,14 +79,13 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=horacio-a&hide_border=true&layout=compact" align="left" />  
 
 <br/>  
-
-
-## Recent Blog Posts  
   
 
 <br/>  
-
+<div align="center">
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21zf73xzxnlvuyxau6m7ohdda&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)  
+
+</div>
 
 <br/>  
 
@@ -97,5 +96,3 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
