@@ -1,7 +1,7 @@
 ## <div align="center">I'm Horacio Albornoz, a Full-stack developer 👨‍💻 🚀</div>  
   
 
-- #### 🔭 Get to know me better in my [Portfolio](https://horaciomalbornoz.com.ar)  
+- #### 🔭 Get to know me better in my [Portfolio](https://horacio-dev.com.ar)  
   
 
 - #### ❓ Ask me about anything related to MERN stack and related technologies  
